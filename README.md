@@ -5,9 +5,8 @@ Bar  chart  test  task
 ###In root folder execute
   ```
     npm install
-  ``
+  ```
  #How to run?
   ```
     npm start
   ```
-  
