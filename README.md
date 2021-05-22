@@ -2,7 +2,7 @@
 Bar  chart  test  task
 
 #Installation
-###In root folder execute
+##In root folder execute
   ```
     npm install
   ```
