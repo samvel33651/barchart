@@ -1,12 +1,12 @@
 
-#Bar  chart  test  task
+# Bar  chart  test  task
 
-#Installation
-##In root folder execute
+## Installation
+In root folder execute
   ```
     npm install
   ```
- #How to run?
+ ## How to run?
   ```
     npm start
   ```
