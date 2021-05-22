@@ -1,5 +1,5 @@
-# barchart
-Bar  chart  test  task
+
+#Bar  chart  test  task
 
 #Installation
 ##In root folder execute
