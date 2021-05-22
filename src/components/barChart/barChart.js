@@ -24,9 +24,9 @@ const BarChart = ({ data, barWidth, marginBetweenBars }) => {
             height={700}
         >
             <rect x="0" y="0" width="5" height={chartHeight} stroke="black" fill="black"
-                  fill-opacity="0.5" stroke-opacity="0.8"/>
+                  fillOpacity="0.5" strokeOpacity="0.8"/>
             <rect x="0" y={chartHeight} width="100%" height={5} stroke="black" fill="black"
-                  fill-opacity="0.5" stroke-opacity="0.8"/>
+                  fillOpacity="0.5" strokeOpacity="0.8"/>
             {normalizedData.map((item, index) => {
                 const { value, date } = item;
 
