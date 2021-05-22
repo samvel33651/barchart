@@ -12,7 +12,7 @@ const Bar = ({x, y, width, height, color, date, chartHeight, coefficient}) => (
             fill={color}
         />
         <text x={x} y={y+10} transform={`rotate(-90 ${x+125} ${y+120})`}>
-            <tspan> {height * coefficient } USD</tspan>
+            <tspan> {height / coefficient } USD</tspan>
         </text>
         <text x={x } y={chartHeight } transform={`rotate(45 ${x -15} ${chartHeight +15 })`}>
             <tspan fill="red">{date}</tspan>
