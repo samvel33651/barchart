@@ -1,0 +1,9 @@
+.bar {
+    transition: fill .3s ease;
+    cursor: pointer;
+}
+
+.bar:hover,
+.bar:focus {
+    fill: black;
+}
